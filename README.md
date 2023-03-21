@@ -35,26 +35,6 @@
 - English (Advance)
 - Spanish (Native)
 
-
-# Experience
-
-
-## **Freelance, Remote** *— Frontend Developer*
-DIC 2021 - PRESENT
-
-- I develop and maintain an application for a complete accounting system
-- I improved performance, User Experience, app size and development cycle
-- I adapted to every project and I learned new technologies quickly
-
-
-## **[Deepcompany LLC](https://www.deepcompany.com), EEUU** *— Frontend Developer*
-NOV 2018 - DIC 2021
-
-- Maintenance of the whole E-commerce builder platform, Deepyshop
-- Coordinate all elements of design with the team of arts and design
-- Professional Web Design of the E-commerce
-
-
 ---
 
 # Projects (Featured)
